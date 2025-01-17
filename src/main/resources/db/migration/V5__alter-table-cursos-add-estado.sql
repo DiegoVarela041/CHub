@@ -1,0 +1,1 @@
+ALTER TABLE cursos ADD estado BOOLEAN NOT NULL;
